@@ -40,7 +40,7 @@
 ## Installation & Usage  
 Clone the repository and install requirements:  
 ```bash
-git clone https://github.com/FreedomSecurity1337/FanvyStorm.git
-cd FanvyStorm
+git clone https://github.com/FreedomSecurity1337/FNavyStorm.git
+cd FNavyStorm
 pip install -r xxx.mp4
 sudo python3 fnavy.py
